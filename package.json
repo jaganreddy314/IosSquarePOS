@@ -1,0 +1,20 @@
+{
+	"name": "@simpro/com.simpro.plugins.squarepos",
+	"version": "0.0.1",
+	"description": "Cordova Plugin to interface with the Square Point of Sale",
+	"cordova": {
+	  "id": "com.simpro.plugins.squarepos",
+	  "platforms": [
+		"ios"
+	  ]
+	},
+	"keywords": [
+	  "ecosystem:cordova",
+	  "cordova-ios"
+	],
+	"author": "Jagan",
+	"license": "MIT",
+	"publishConfig": {
+	  "access": "public"
+	}
+  }
