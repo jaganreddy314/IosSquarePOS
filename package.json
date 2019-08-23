@@ -8,6 +8,10 @@
 		"ios"
 	  ]
 	},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaganreddy314/IosSquarePOS.git"
+  },
 	"keywords": [
 	  "ecosystem:cordova",
 	  "cordova-ios"
