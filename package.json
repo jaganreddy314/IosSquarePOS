@@ -1,5 +1,5 @@
 {
-	"name": "@simpro/com.simpro.plugins.squarepos",
+	"name": "com.simpro.plugins.squarepos",
 	"version": "0.0.1",
 	"description": "Cordova Plugin to interface with the Square Point of Sale",
 	"cordova": {
@@ -10,7 +10,7 @@
 	},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaganreddy314/IosSquarePOS.git"
+    "url": "git+https://github.com/jaganreddy314/com.simpro.plugins.squarepos.git"
   },
 	"keywords": [
 	  "ecosystem:cordova",
