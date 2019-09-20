@@ -1,4 +1,4 @@
-cordova.define("com.simpro.plugins.squarepos.IOSSquarePOS", function(require, exports, module) {
+
     var exec = require('cordova/exec');
     var IOSSquarePOS = function() {
     };
@@ -14,8 +14,5 @@ cordova.define("com.simpro.plugins.squarepos.IOSSquarePOS", function(require, ex
         };
         return cordova.exec(success, fail, "IOSSquarePOS", "initTransaction", [params]);
     };
-    
     window.iosSquarePOS = new IOSSquarePOS();
-    
-    });
   
